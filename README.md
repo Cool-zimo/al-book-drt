@@ -1,2 +1,7 @@
-# al-book-drt
-少羽为什么牛逼 — AnyLearn book
+# 少羽为什么牛逼
+
+在这里写几句介绍，说明这本书讲什么、适合谁。
+
+---
+
+英文 id: `al-book-drt`
